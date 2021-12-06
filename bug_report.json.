@@ -1,1 +1,13 @@
-
+{
+  "bug-report":"name-title",
+  [
+    {
+    "title":"name-title",
+    "steps-to-reproduction":["step1","step2","step3"],
+    "expected-result":"the-result-we-need",
+    "":"the-result-of-whitch-must-be",
+    "priority-facror":["low","medium","high"],
+    "severity-factor":["trivial","minor","major","critical","blocker"]
+}
+]
+}
